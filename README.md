@@ -8,12 +8,12 @@
 | 이름   | GitHub |
 |--------|--------|
 | 김성환 | [publicksh][1] |
-| 김예은 | [][2] |
-| 백제완 | [][3] |
+| 김예은 | [kimyeheun][2] |
+| 백제완 | [Jewan1120][3] |
 
 [1]: https://github.com/publicksh
-<!-- [2]: https://github.com/
-[3]: https://github.com/ -->
+[2]: https://github.com/kimyeheun
+[3]: https://github.com/Jewan1120
 
 <br/>
 
@@ -22,3 +22,9 @@
 <br/>
 
 ## 💡 Rule
+
+<br/>
+
+## 💡 진행 상황
+운영체제 2.3
+
