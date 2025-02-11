@@ -56,4 +56,19 @@
 - 컴파일 및 빌드
   - 컴파일 과정
 ### [네트워크](./network/)
+- OSI 7계층
+  - 각 계층의 역할
+  - 전송 계층 (Transport Layer)
+    - TCP와 UDP의 차이
+    - 3-Way Handshake
+    - 4-Way Handshake
+    - 흐름제어 및 혼잡제어
+    - HTTP/3에서 UDP 사용 이유
+- IP
+  - IPv4와 IPv6
+  - IP 주소와 MAC 주소
+- 라우팅 & 스위칭
+  - 라우터와 L3 스위치의 차이
+- NAT
+  - PAT
 ### [데이터베이스](./database/)
