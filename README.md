@@ -7,10 +7,12 @@
 | 김성환 | [publicksh][1] |
 | 김예은 | [kimyeheun][2] |
 | 백제완 | [Jewan1120][3] |
+| 임세현 | [Chelly142][4] |
 
 [1]: https://github.com/publicksh
 [2]: https://github.com/kimyeheun
 [3]: https://github.com/Jewan1120
+[4]: https://github.com/Chelly142
 <br/>
 
 ## 📚 학습 주제
